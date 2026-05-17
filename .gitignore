@@ -1,0 +1,32 @@
+# ====================
+# Obsidian
+# ====================
+
+# Workspace layout (个人布局，不同步)
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Obsidian cache
+.obsidian/cache/
+
+# Obsidian trash
+.obsidian/trash/
+
+# ====================
+# Claude Code (本机环境配置)
+# ====================
+.claude/
+.claudian/
+
+# ====================
+# OS files
+# ====================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ====================
+# Other
+# ====================
+node_modules/
+.env
